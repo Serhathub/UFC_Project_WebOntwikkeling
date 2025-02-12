@@ -1,0 +1,338 @@
+[
+      {
+        "id": 1,
+        "name": "Jon Jones",
+        "nickname": "Bones",
+        "age": 37,
+        "champion": true,
+        "birthdate": "1987-07-19",
+        "imageUrl": "images/jon_jones.jpg",
+        "weightClass": "Heavyweight",
+        "record": "28-1-0",
+        "foughtInOrganisations": ["UFC", "WEC", "Cage Warriors"],
+        "description": "Jon Jones is widely regarded as one of the greatest fighters in MMA history, known for his versatile striking and wrestling. He has defended his belt 13 times which is the most in the UFC and MMA history",
+        "team": {
+          "id": 101,
+          "name": "Jackson Wink MMA Academy",
+          "location": "Albuquerque, New Mexico",
+          "established": 1992,
+          "coach": "Greg Jackson",
+          "logoUrl": "images/jackson_wink.png"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Tom Aspinall",
+        "nickname": "Honey Badger",
+        "age": 31,
+        "champion": false,
+        "birthdate": "1993-04-11",
+        "imageUrl": "images/tom_aspinall.jpg",
+        "weightClass": "Heavyweight",
+        "record": "15-3-0",
+        "foughtInOrganisations": ["UFC", "BAMMA", "Cage Warriors"],
+        "description": "A talented heavyweight known for his knockout power and grappling skills. He's the current interim champion.",
+        "team": {
+          "id": 102,
+          "name": "Team Kaobon",
+          "location": "Liverpool, England",
+          "established": 2002,
+          "coach": "Paul Reed",
+          "logoUrl": "images/team_kaobon.png"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Alex Pereira",
+        "nickname": "Poatan",
+        "age": 37,
+        "champion": true,
+        "birthdate": "1987-07-07",
+        "imageUrl": "images/alex_pereira.jpg",
+        "weightClass": "Light Heavyweight",
+        "record": "12-2-0",
+        "foughtInOrganisations": ["UFC", "Glory Kickboxing", "K-1"],
+        "description": "A former 2 division kickboxing champion known for his striking ability and knockout power.",
+        "team": {
+          "id": 103,
+          "name": "Teixeira MMA & Fitness",
+          "location": "Danbury, Connecticut",
+          "established": 2019,
+          "coach": "Glover Teixeira",
+          "logoUrl": "images/teixeira_mma.png"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Magomed Ankalaev",
+        "nickname": "The Dagestani Mauler",
+        "age": 32,
+        "champion": false,
+        "birthdate": "1992-06-02",
+        "imageUrl": "images/magomed_ankalaev.jpg",
+        "weightClass": "Light Heavyweight",
+        "record": "20-1-1",
+        "foughtInOrganisations": ["UFC", "M-1 Global", "ProFC"],
+        "description": "An up-and-coming light heavyweight with a strong grappling base and striking.",
+        "team": {
+          "id": 104,
+          "name": "Fight Club Akhmat",
+          "location": "Grozny, Chechnya",
+          "established": 2014,
+          "coach": "Sukhrab Magomedov",
+          "logoUrl": "images/fca.png"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Dricus Du Plessis",
+        "nickname": "Stillknocks",
+        "age": 31,
+        "champion": true,
+        "birthdate": "1994-01-14",
+        "imageUrl": "images/dricus_du_plessis.jpg",
+        "weightClass": "Middleweight",
+        "record": "22-2-0",
+        "foughtInOrganisations": ["UFC", "EFC", "KSW"],
+        "description": "A dynamic middleweight fighter known for his finishing ability and resilience.",
+        "team": {
+          "id": 105,
+          "name": "CIT Performance Institute",
+          "location": "Pretoria, South Africa",
+          "established": 2015,
+          "coach": "Ruan Potts",
+          "logoUrl": "images/cit_performance.png"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Sean Strickland",
+        "nickname": "Tarzan",
+        "age": 34,
+        "champion": false,
+        "birthdate": "1991-02-27",
+        "imageUrl": "images/sean_strickland.jpg",
+        "weightClass": "Middleweight",
+        "record": "29-6-0",
+        "foughtInOrganisations": ["UFC", "King of the Cage", "Tachi Palace Fights"],
+        "description": "Known for his striking and pressure fighting style, Sean is a top contender in the middleweight division.",
+        "team": {
+          "id": 106,
+          "name": "Xtreme Couture",
+          "location": "Las Vegas, Nevada",
+          "established": 2006,
+          "coach": "Erick Nicksick",
+          "logoUrl": "images/xtreme_couture.png"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Belal Muhammad",
+        "nickname": "Remember the Name",
+        "age": 36,
+        "champion": true,
+        "birthdate": "1988-07-09",
+        "imageUrl": "images/belal_muhammad.jpg",
+        "weightClass": "Welterweight",
+        "record": "24-3-0",
+        "foughtInOrganisations": ["UFC", "Titan FC", "Bellator"],
+        "description": "An all-around fighter with a strong grappling background and heart.",
+        "team": {
+          "id": 107,
+          "name": "Roufusport MMA Academy",
+          "location": "Milwaukee, Wisconsin",
+          "established": 1993,
+          "coach": "Duke Roufus",
+          "logoUrl": "images/roufusport.png"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Leon Edwards",
+        "nickname": "Rocky",
+        "age": 33,
+        "champion": false,
+        "birthdate": "1991-08-25",
+        "imageUrl": "images/leon_edwards.jpg",
+        "weightClass": "Welterweight",
+        "record": "22-4-0",
+        "foughtInOrganisations": ["UFC", "BAMMA", "Cage Warriors"],
+        "description": "The former welterweight champion known for his striking skills and tactical approach.",
+        "team": {
+          "id": 108,
+          "name": "Team Renegade BJJ & MMA",
+          "location": "Birmingham, England",
+          "established": 2015,
+          "coach": "Dave Lovell",
+          "logoUrl": "images/team_renegade.png"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Islam Makhachev",
+        "nickname": "Eagle",
+        "age": 33,
+        "champion": true,
+        "birthdate": "1991-10-27",
+        "imageUrl": "images/islam_makhachev.jpg",
+        "weightClass": "Lightweight",
+        "record": "27-1-0",
+        "foughtInOrganisations": ["UFC", "ProFC", "Fight Nights Global"],
+        "description": "Known for his grappling and submission game, Islam is also very good at striking. He is the current pound-for-pound number 1 fighter in the UFC.",
+        "team": {
+          "id": 109,
+          "name": "American Kickboxing Academy",
+          "location": "San Jose, California",
+          "established": 1985,
+          "coach": "Javier Mendez",
+          "logoUrl": "images/aka.png"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Arman Tsarukyan",
+        "nickname": "Ahalkalakets",
+        "age": 28,
+        "champion": false,
+        "birthdate": "1996-10-11",
+        "imageUrl": "images/arman_tsarukyan.jpg",
+        "weightClass": "Lightweight",
+        "record": "22-3-0",
+        "foughtInOrganisations": ["UFC", "FNG", "ACA"],
+        "description": "A talented lightweight prospect with a well-rounded skill set and determination.",
+        "team": {
+          "id": 110,
+          "name": "American Top Team",
+          "location": "Coconut Creek, Florida",
+          "established": 2001,
+          "coach": "Dan Lambert",
+          "logoUrl": "images/att.png"
+        }
+      },
+      {
+        "id": 11,
+        "name": "Ilia Topuria",
+        "nickname": "El Matador",
+        "age": 28,
+        "champion": true,
+        "birthdate": "1997-01-21",
+        "imageUrl": "images/ilia_topuria.jpg",
+        "weightClass": "Featherweight",
+        "record": "16-0-0",
+        "foughtInOrganisations": ["UFC", "BRAVE CF", "KSW"],
+        "description": "An undefeated featherweight known for his explosive striking and grappling prowess.",
+        "team": {
+          "id": 111,
+          "name": "Climent Club",
+          "location": "Alicante, Spain",
+          "established": 2012,
+          "coach": "Jorge Climent",
+          "logoUrl": "images/climent_club.png"
+        }
+      },
+      {
+        "id": 12,
+        "name": "Alexander Volkanovski",
+        "nickname": "The Great",
+        "age": 36,
+        "champion": false,
+        "birthdate": "1988-09-29",
+        "imageUrl": "images/alexander_volkanovski.jpg",
+        "weightClass": "Featherweight",
+        "record": "26-4-0",
+        "foughtInOrganisations": ["UFC", "Roshambo MMA", "Australian FC"],
+        "description": "A strong all-rounder and former champion with a well-rounded skill set.",
+        "team": {
+          "id": 112,
+          "name": "City Kickboxing",
+          "location": "Auckland, New Zealand",
+          "established": 2007,
+          "coach": "Eugene Bareman",
+          "logoUrl": "images/city_kickboxing.png"
+        }
+      },
+      {
+        "id": 13,
+        "name": "Merab Dvalishvili",
+        "nickname": "The Machine",
+        "age": 34,
+        "champion": true,
+        "birthdate": "1991-01-10",
+        "imageUrl": "images/merab_dvalishvili.jpg",
+        "weightClass": "Bantamweight",
+        "record": "19-4-0",
+        "foughtInOrganisations": ["UFC", "WSOF", "ACA"],
+        "description": "A relentless bantamweight known for his cardio and wrestling ability.",
+        "team": {
+          "id": 113,
+          "name": "Serra-Longo Fight Team",
+          "location": "New York, United States",
+          "established": 2001,
+          "coach": "Ray Longo",
+          "logoUrl": "images/serra_longo.png"
+        }
+      },
+      {
+        "id": 14,
+        "name": "Sean O'Malley",
+        "nickname": "Sugar",
+        "age": 30,
+        "champion": false,
+        "birthdate": "1994-10-24",
+        "imageUrl": "images/sean_omalley.jpg",
+        "weightClass": "Bantamweight",
+        "record": "18-2-0",
+        "foughtInOrganisations": ["UFC", "ICF", "LFA"],
+        "description": "A colorful personality and skilled striker, Sean O'Malley is a fan favorite. He's the previous champion.",
+        "team": {
+          "id": 114,
+          "name": "MMA Lab",
+          "location": "Glendale, Arizona",
+          "established": 2007,
+          "coach": "John Crouch",
+          "logoUrl": "images/mma_lab.png"
+        }
+      },
+      {
+        "id": 15,
+        "name": "Alexandre Pantoja",
+        "nickname": "The Cannibal",
+        "age": 34,
+        "champion": true,
+        "birthdate": "1990-04-16",
+        "imageUrl": "images/alexandre_pantoja.jpg",
+        "weightClass": "Flyweight",
+        "record": "29-5-0",
+        "foughtInOrganisations": ["UFC", "Shooto Brazil", "XFC"],
+        "description": "A well-rounded flyweight known for his grappling and submission skills.",
+        "team": {
+          "id": 115,
+          "name": "Black House",
+          "location": "Rio de Janeiro, Brazil",
+          "established": 2006,
+          "coach": "Carlos Barreto",
+          "logoUrl": "images/bh.png"
+        }
+      },
+      {
+        "id": 16,
+        "name": "Brandon Royval",
+        "nickname": "Raw Dawg",
+        "age": 33,
+        "champion": false,
+        "birthdate": "1992-08-16",
+        "imageUrl": "images/brandon_royval.jpg",
+        "weightClass": "Flyweight",
+        "record": "17-7-0",
+        "foughtInOrganisations": ["UFC", "LFA", "RFA"],
+        "description": "A fighter known for his exciting style and finishing ability in the flyweight division. He's a former LFA Flyweight Champion.",
+        "team": {
+          "id": 116,
+          "name": "Factory X",
+          "location": "Englewood, Colorado",
+          "established": 2008,
+          "coach": "Marc Montoya",
+          "logoUrl": "images/factory_x.png"
+        }
+      }
+    ]

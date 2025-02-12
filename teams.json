@@ -1,0 +1,130 @@
+[
+    {
+      "id": 101,
+      "name": "Jackson Wink MMA Academy",
+      "location": "Albuquerque, New Mexico",
+      "established": 1992,
+      "coach": "Greg Jackson",
+      "logoUrl": "images/jackson_wink.png"
+    },
+    {
+      "id": 102,
+      "name": "Team Kaobon",
+      "location": "Liverpool, England",
+      "established": 2002,
+      "coach": "Paul Reed",
+      "logoUrl": "images/team_kaobon.png"
+    },
+    {
+      "id": 103,
+      "name": "Teixeira MMA & Fitness",
+      "location": "Danbury, Connecticut",
+      "established": 2019,
+      "coach": "Glover Teixeira",
+      "logoUrl": "images/teixeira_mma.png"
+    },
+    {
+      "id": 104,
+      "name": "Fight Club Akhmat",
+      "location": "Grozny, Chechnya",
+      "established": 2014,
+      "coach": "Sukhrab Magomedov",
+      "logoUrl": "images/fca.png"
+    },
+    {
+      "id": 105,
+      "name": "CIT Performance Institute",
+      "location": "Pretoria, South Africa",
+      "established": 2015,
+      "coach": "Ruan Potts",
+      "logoUrl": "images/cit_performance.png"
+    },
+    {
+      "id": 106,
+      "name": "Xtreme Couture",
+      "location": "Las Vegas, Nevada",
+      "established": 2006,
+      "coach": "Erick Nicksick",
+      "logoUrl": "images/xtreme_couture.png"
+    },
+    {
+      "id": 107,
+      "name": "Roufusport MMA Academy",
+      "location": "Milwaukee, Wisconsin",
+      "established": 1993,
+      "coach": "Duke Roufus",
+      "logoUrl": "images/roufusport.png"
+    },
+    {
+      "id": 108,
+      "name": "Team Renegade BJJ & MMA",
+      "location": "Birmingham, England",
+      "established": 2015,
+      "coach": "Dave Lovell",
+      "logoUrl": "images/team_renegade.png"
+    },
+    {
+      "id": 109,
+      "name": "American Kickboxing Academy",
+      "location": "San Jose, California",
+      "established": 1985,
+      "coach": "Javier Mendez",
+      "logoUrl": "images/aka.png"
+    },
+    {
+      "id": 110,
+      "name": "American Top Team",
+      "location": "Coconut Creek, Florida",
+      "established": 2001,
+      "coach": "Dan Lambert",
+      "logoUrl": "images/att.png"
+    },
+    {
+      "id": 111,
+      "name": "Climent Club",
+      "location": "Alicante, Spain",
+      "established": 2012,
+      "coach": "Jorge Climent",
+      "logoUrl": "images/climent_club.png"
+    },
+    {
+      "id": 112,
+      "name": "City Kickboxing",
+      "location": "Auckland, New Zealand",
+      "established": 2007,
+      "coach": "Eugene Bareman",
+      "logoUrl": "images/city_kickboxing.png"
+    },
+    {
+      "id": 113,
+      "name": "Serra-Longo Fight Team",
+      "location": "New York, United States",
+      "established": 2001,
+      "coach": "Ray Longo",
+      "logoUrl": "images/serra_longo.png"
+    },
+    {
+      "id": 114,
+      "name": "MMA Lab",
+      "location": "Glendale, Arizona",
+      "established": 2007,
+      "coach": "John Crouch",
+      "logoUrl": "images/mma_lab.png"
+    },
+    {
+      "id": 115,
+      "name": "Black House",
+      "location": "Rio de Janeiro, Brazil",
+      "established": 2006,
+      "coach": "Carlos Barreto",
+      "logoUrl": "images/bh.png"
+    },
+    {
+      "id": 116,
+      "name": "Factory X",
+      "location": "Englewood, Colorado",
+      "established": 2008,
+      "coach": "Marc Montoya",
+      "logoUrl": "images/factory_x.png"
+    }
+  ]
