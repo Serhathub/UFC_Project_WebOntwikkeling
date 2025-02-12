@@ -6,7 +6,7 @@
         "age": 37,
         "champion": true,
         "birthdate": "1987-07-19",
-        "imageUrl": "images/jon_jones.jpg",
+        "imageUrl": "images/JONES_JON.png",
         "weightClass": "Heavyweight",
         "record": "28-1-0",
         "foughtInOrganisations": ["UFC", "WEC", "Cage Warriors"],
@@ -14,7 +14,7 @@
         "team": {
           "id": 101,
           "name": "Jackson Wink MMA Academy",
-          "location": "Albuquerque, New Mexico",
+          "location": "Albuquerque, New Mexico, USA",
           "established": 1992,
           "coach": "Greg Jackson",
           "logoUrl": "images/jackson_wink.png"
@@ -27,7 +27,7 @@
         "age": 31,
         "champion": false,
         "birthdate": "1993-04-11",
-        "imageUrl": "images/tom_aspinall.jpg",
+        "imageUrl": "images/ASPINALL_TOM.png",
         "weightClass": "Heavyweight",
         "record": "15-3-0",
         "foughtInOrganisations": ["UFC", "BAMMA", "Cage Warriors"],
@@ -48,7 +48,7 @@
         "age": 37,
         "champion": true,
         "birthdate": "1987-07-07",
-        "imageUrl": "images/alex_pereira.jpg",
+        "imageUrl": "images/PEREIRA_ALEX.png",
         "weightClass": "Light Heavyweight",
         "record": "12-2-0",
         "foughtInOrganisations": ["UFC", "Glory Kickboxing", "K-1"],
@@ -56,7 +56,7 @@
         "team": {
           "id": 103,
           "name": "Teixeira MMA & Fitness",
-          "location": "Danbury, Connecticut",
+          "location": "Danbury, Connecticut, USA",
           "established": 2019,
           "coach": "Glover Teixeira",
           "logoUrl": "images/teixeira_mma.png"
@@ -69,7 +69,7 @@
         "age": 32,
         "champion": false,
         "birthdate": "1992-06-02",
-        "imageUrl": "images/magomed_ankalaev.jpg",
+        "imageUrl": "images/ANKALAEV_MAGOMED.png",
         "weightClass": "Light Heavyweight",
         "record": "20-1-1",
         "foughtInOrganisations": ["UFC", "M-1 Global", "ProFC"],
@@ -77,7 +77,7 @@
         "team": {
           "id": 104,
           "name": "Fight Club Akhmat",
-          "location": "Grozny, Chechnya",
+          "location": "Grozny, Chechnya, Russia",
           "established": 2014,
           "coach": "Sukhrab Magomedov",
           "logoUrl": "images/fca.png"
@@ -90,7 +90,7 @@
         "age": 31,
         "champion": true,
         "birthdate": "1994-01-14",
-        "imageUrl": "images/dricus_du_plessis.jpg",
+        "imageUrl": "images/DUPLESSIS_DRICUS.png",
         "weightClass": "Middleweight",
         "record": "22-2-0",
         "foughtInOrganisations": ["UFC", "EFC", "KSW"],
@@ -106,23 +106,23 @@
       },
       {
         "id": 6,
-        "name": "Sean Strickland",
-        "nickname": "Tarzan",
-        "age": 34,
+        "name": "Nassourdine Imavov",
+        "nickname": "The Sniper",
+        "age": 29,
         "champion": false,
-        "birthdate": "1991-02-27",
-        "imageUrl": "images/sean_strickland.jpg",
+        "birthdate": "1996-05-01",
+        "imageUrl": "images/IMAVOV_NASSOURDINE.png",
         "weightClass": "Middleweight",
-        "record": "29-6-0",
-        "foughtInOrganisations": ["UFC", "King of the Cage", "Tachi Palace Fights"],
-        "description": "Known for his striking and pressure fighting style, Sean is a top contender in the middleweight division.",
+        "record": "12-3-0",
+        "foughtInOrganisations": ["UFC", "Cage Warriors","Centurion FC"],
+        "description": "A skilled striker with a technical approach, Nassourdine is rapidly climbing the ranks in the middleweight division.",
         "team": {
           "id": 106,
-          "name": "Xtreme Couture",
-          "location": "Las Vegas, Nevada",
+          "name": "MMA Factory",
+          "location": "Paris, France",
           "established": 2006,
           "coach": "Erick Nicksick",
-          "logoUrl": "images/xtreme_couture.png"
+          "logoUrl": "images/mma_factory.png"
         }
       },
       {
@@ -132,7 +132,7 @@
         "age": 36,
         "champion": true,
         "birthdate": "1988-07-09",
-        "imageUrl": "images/belal_muhammad.jpg",
+        "imageUrl": "images/MUHAMMAD_BELAL.png",
         "weightClass": "Welterweight",
         "record": "24-3-0",
         "foughtInOrganisations": ["UFC", "Titan FC", "Bellator"],
@@ -140,7 +140,7 @@
         "team": {
           "id": 107,
           "name": "Roufusport MMA Academy",
-          "location": "Milwaukee, Wisconsin",
+          "location": "Milwaukee, Wisconsin, USA",
           "established": 1993,
           "coach": "Duke Roufus",
           "logoUrl": "images/roufusport.png"
@@ -153,7 +153,7 @@
         "age": 33,
         "champion": false,
         "birthdate": "1991-08-25",
-        "imageUrl": "images/leon_edwards.jpg",
+        "imageUrl": "images/EDWARDS_LEON.png",
         "weightClass": "Welterweight",
         "record": "22-4-0",
         "foughtInOrganisations": ["UFC", "BAMMA", "Cage Warriors"],
@@ -174,7 +174,7 @@
         "age": 33,
         "champion": true,
         "birthdate": "1991-10-27",
-        "imageUrl": "images/islam_makhachev.jpg",
+        "imageUrl": "images/MAKHACHEV_ISLAM.png",
         "weightClass": "Lightweight",
         "record": "27-1-0",
         "foughtInOrganisations": ["UFC", "ProFC", "Fight Nights Global"],
@@ -182,7 +182,7 @@
         "team": {
           "id": 109,
           "name": "American Kickboxing Academy",
-          "location": "San Jose, California",
+          "location": "San Jose, California, USA",
           "established": 1985,
           "coach": "Javier Mendez",
           "logoUrl": "images/aka.png"
@@ -195,7 +195,7 @@
         "age": 28,
         "champion": false,
         "birthdate": "1996-10-11",
-        "imageUrl": "images/arman_tsarukyan.jpg",
+        "imageUrl": "images/TSARUKYAN_ARMAN.png",
         "weightClass": "Lightweight",
         "record": "22-3-0",
         "foughtInOrganisations": ["UFC", "FNG", "ACA"],
@@ -203,7 +203,7 @@
         "team": {
           "id": 110,
           "name": "American Top Team",
-          "location": "Coconut Creek, Florida",
+          "location": "Coconut Creek, Florida, USA",
           "established": 2001,
           "coach": "Dan Lambert",
           "logoUrl": "images/att.png"
@@ -216,7 +216,7 @@
         "age": 28,
         "champion": true,
         "birthdate": "1997-01-21",
-        "imageUrl": "images/ilia_topuria.jpg",
+        "imageUrl": "images/TOPURIA_ILIA.png",
         "weightClass": "Featherweight",
         "record": "16-0-0",
         "foughtInOrganisations": ["UFC", "BRAVE CF", "KSW"],
@@ -237,7 +237,7 @@
         "age": 36,
         "champion": false,
         "birthdate": "1988-09-29",
-        "imageUrl": "images/alexander_volkanovski.jpg",
+        "imageUrl": "images/VOLKANOVSKI_ALEXANDER.png",
         "weightClass": "Featherweight",
         "record": "26-4-0",
         "foughtInOrganisations": ["UFC", "Roshambo MMA", "Australian FC"],
@@ -258,7 +258,7 @@
         "age": 34,
         "champion": true,
         "birthdate": "1991-01-10",
-        "imageUrl": "images/merab_dvalishvili.jpg",
+        "imageUrl": "images/DVALISHVILI_MERAB.png",
         "weightClass": "Bantamweight",
         "record": "19-4-0",
         "foughtInOrganisations": ["UFC", "WSOF", "ACA"],
@@ -266,7 +266,7 @@
         "team": {
           "id": 113,
           "name": "Serra-Longo Fight Team",
-          "location": "New York, United States",
+          "location": "Long Island, New York, USA",
           "established": 2001,
           "coach": "Ray Longo",
           "logoUrl": "images/serra_longo.png"
@@ -279,7 +279,7 @@
         "age": 30,
         "champion": false,
         "birthdate": "1994-10-24",
-        "imageUrl": "images/sean_omalley.jpg",
+        "imageUrl": "images/OMALLEY_SEAN.png",
         "weightClass": "Bantamweight",
         "record": "18-2-0",
         "foughtInOrganisations": ["UFC", "ICF", "LFA"],
@@ -287,7 +287,7 @@
         "team": {
           "id": 114,
           "name": "MMA Lab",
-          "location": "Glendale, Arizona",
+          "location": "Glendale, Arizona, USA",
           "established": 2007,
           "coach": "John Crouch",
           "logoUrl": "images/mma_lab.png"
@@ -300,18 +300,18 @@
         "age": 34,
         "champion": true,
         "birthdate": "1990-04-16",
-        "imageUrl": "images/alexandre_pantoja.jpg",
+        "imageUrl": "images/PANTOJA_ALEXANDRE.png",
         "weightClass": "Flyweight",
         "record": "29-5-0",
         "foughtInOrganisations": ["UFC", "Shooto Brazil", "XFC"],
         "description": "A well-rounded flyweight known for his grappling and submission skills.",
         "team": {
-          "id": 115,
-          "name": "Black House",
-          "location": "Rio de Janeiro, Brazil",
-          "established": 2006,
-          "coach": "Carlos Barreto",
-          "logoUrl": "images/bh.png"
+          "id": 110,
+          "name": "American Top Team",
+          "location": "Coconut Creek, Florida, USA",
+          "established": 2001,
+          "coach": "Dan Lambert",
+          "logoUrl": "images/att.png"
         }
       },
       {
@@ -321,15 +321,15 @@
         "age": 33,
         "champion": false,
         "birthdate": "1992-08-16",
-        "imageUrl": "images/brandon_royval.jpg",
+        "imageUrl": "images/ROYVAL_BRANDON.png",
         "weightClass": "Flyweight",
         "record": "17-7-0",
         "foughtInOrganisations": ["UFC", "LFA", "RFA"],
         "description": "A fighter known for his exciting style and finishing ability in the flyweight division. He's a former LFA Flyweight Champion.",
         "team": {
-          "id": 116,
+          "id": 115,
           "name": "Factory X",
-          "location": "Englewood, Colorado",
+          "location": "Englewood, Colorado, USA",
           "established": 2008,
           "coach": "Marc Montoya",
           "logoUrl": "images/factory_x.png"

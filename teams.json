@@ -1,8 +1,8 @@
-[
+[    
     {
       "id": 101,
       "name": "Jackson Wink MMA Academy",
-      "location": "Albuquerque, New Mexico",
+      "location": "Albuquerque, New Mexico, USA",
       "established": 1992,
       "coach": "Greg Jackson",
       "logoUrl": "images/jackson_wink.png"
@@ -18,7 +18,7 @@
     {
       "id": 103,
       "name": "Teixeira MMA & Fitness",
-      "location": "Danbury, Connecticut",
+      "location": "Danbury, Connecticut, USA",
       "established": 2019,
       "coach": "Glover Teixeira",
       "logoUrl": "images/teixeira_mma.png"
@@ -41,16 +41,16 @@
     },
     {
       "id": 106,
-      "name": "Xtreme Couture",
-      "location": "Las Vegas, Nevada",
+      "name": "MMA Factory",
+      "location": "Paris, France",
       "established": 2006,
       "coach": "Erick Nicksick",
-      "logoUrl": "images/xtreme_couture.png"
+      "logoUrl": "images/mma_factory.png"
     },
     {
       "id": 107,
       "name": "Roufusport MMA Academy",
-      "location": "Milwaukee, Wisconsin",
+      "location": "Milwaukee, Wisconsin, USA",
       "established": 1993,
       "coach": "Duke Roufus",
       "logoUrl": "images/roufusport.png"
@@ -66,7 +66,7 @@
     {
       "id": 109,
       "name": "American Kickboxing Academy",
-      "location": "San Jose, California",
+      "location": "San Jose, California, USA",
       "established": 1985,
       "coach": "Javier Mendez",
       "logoUrl": "images/aka.png"
@@ -74,7 +74,7 @@
     {
       "id": 110,
       "name": "American Top Team",
-      "location": "Coconut Creek, Florida",
+      "location": "Coconut Creek, Florida, USA",
       "established": 2001,
       "coach": "Dan Lambert",
       "logoUrl": "images/att.png"
@@ -98,7 +98,7 @@
     {
       "id": 113,
       "name": "Serra-Longo Fight Team",
-      "location": "New York, United States",
+      "location": "Long Island, New York, USA",
       "established": 2001,
       "coach": "Ray Longo",
       "logoUrl": "images/serra_longo.png"
@@ -106,23 +106,15 @@
     {
       "id": 114,
       "name": "MMA Lab",
-      "location": "Glendale, Arizona",
+      "location": "Glendale, Arizona, USA",
       "established": 2007,
       "coach": "John Crouch",
       "logoUrl": "images/mma_lab.png"
     },
     {
       "id": 115,
-      "name": "Black House",
-      "location": "Rio de Janeiro, Brazil",
-      "established": 2006,
-      "coach": "Carlos Barreto",
-      "logoUrl": "images/bh.png"
-    },
-    {
-      "id": 116,
       "name": "Factory X",
-      "location": "Englewood, Colorado",
+      "location": "Englewood, Colorado, USA",
       "established": 2008,
       "coach": "Marc Montoya",
       "logoUrl": "images/factory_x.png"
