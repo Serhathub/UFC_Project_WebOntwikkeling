@@ -5,7 +5,7 @@
       "location": "Albuquerque, New Mexico, USA",
       "established": 1992,
       "coach": "Greg Jackson",
-      "logoUrl": "images/jackson_wink.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/jackson_wink.png"
     },
     {
       "id": 102,
@@ -13,7 +13,7 @@
       "location": "Liverpool, England",
       "established": 2002,
       "coach": "Paul Reed",
-      "logoUrl": "images/team_kaobon.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/team_kaobon.png"
     },
     {
       "id": 103,
@@ -21,7 +21,7 @@
       "location": "Danbury, Connecticut, USA",
       "established": 2019,
       "coach": "Glover Teixeira",
-      "logoUrl": "images/teixeira_mma.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/teixeira_mma.png"
     },
     {
       "id": 104,
@@ -29,7 +29,7 @@
       "location": "Grozny, Chechnya",
       "established": 2014,
       "coach": "Sukhrab Magomedov",
-      "logoUrl": "images/fca.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/fca.png"
     },
     {
       "id": 105,
@@ -37,7 +37,7 @@
       "location": "Pretoria, South Africa",
       "established": 2015,
       "coach": "Ruan Potts",
-      "logoUrl": "images/cit_performance.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/cit_performance.png"
     },
     {
       "id": 106,
@@ -45,7 +45,7 @@
       "location": "Paris, France",
       "established": 2006,
       "coach": "Erick Nicksick",
-      "logoUrl": "images/mma_factory.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/mma_factory.png"
     },
     {
       "id": 107,
@@ -53,7 +53,7 @@
       "location": "Milwaukee, Wisconsin, USA",
       "established": 1993,
       "coach": "Duke Roufus",
-      "logoUrl": "images/roufusport.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/roufusport.png"
     },
     {
       "id": 108,
@@ -61,7 +61,7 @@
       "location": "Birmingham, England",
       "established": 2015,
       "coach": "Dave Lovell",
-      "logoUrl": "images/team_renegade.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/team_renegade.png"
     },
     {
       "id": 109,
@@ -69,7 +69,7 @@
       "location": "San Jose, California, USA",
       "established": 1985,
       "coach": "Javier Mendez",
-      "logoUrl": "images/aka.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/aka.png"
     },
     {
       "id": 110,
@@ -77,7 +77,7 @@
       "location": "Coconut Creek, Florida, USA",
       "established": 2001,
       "coach": "Dan Lambert",
-      "logoUrl": "images/att.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/att.png"
     },
     {
       "id": 111,
@@ -85,7 +85,7 @@
       "location": "Alicante, Spain",
       "established": 2012,
       "coach": "Jorge Climent",
-      "logoUrl": "images/climent_club.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/climent_club.png"
     },
     {
       "id": 112,
@@ -93,7 +93,7 @@
       "location": "Auckland, New Zealand",
       "established": 2007,
       "coach": "Eugene Bareman",
-      "logoUrl": "images/city_kickboxing.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/city_kickboxing.png"
     },
     {
       "id": 113,
@@ -101,7 +101,7 @@
       "location": "Long Island, New York, USA",
       "established": 2001,
       "coach": "Ray Longo",
-      "logoUrl": "images/serra_longo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/serra_longo.png"
     },
     {
       "id": 114,
@@ -109,7 +109,7 @@
       "location": "Glendale, Arizona, USA",
       "established": 2007,
       "coach": "John Crouch",
-      "logoUrl": "images/mma_lab.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/mma_lab.png"
     },
     {
       "id": 115,
@@ -117,6 +117,6 @@
       "location": "Englewood, Colorado, USA",
       "established": 2008,
       "coach": "Marc Montoya",
-      "logoUrl": "images/factory_x.png"
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/factory_x.png"
     }
   ]

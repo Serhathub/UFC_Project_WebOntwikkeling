@@ -6,7 +6,7 @@
         "age": 37,
         "champion": true,
         "birthdate": "1987-07-19",
-        "imageUrl": "images/JONES_JON.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/JONES_JON.png",
         "weightClass": "Heavyweight",
         "record": "28-1-0",
         "foughtInOrganisations": ["UFC", "WEC", "Cage Warriors"],
@@ -17,7 +17,7 @@
           "location": "Albuquerque, New Mexico, USA",
           "established": 1992,
           "coach": "Greg Jackson",
-          "logoUrl": "images/jackson_wink.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/jackson_wink.png"
         }
       },
       {
@@ -27,7 +27,7 @@
         "age": 31,
         "champion": false,
         "birthdate": "1993-04-11",
-        "imageUrl": "images/ASPINALL_TOM.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/ASPINALL_TOM.png",
         "weightClass": "Heavyweight",
         "record": "15-3-0",
         "foughtInOrganisations": ["UFC", "BAMMA", "Cage Warriors"],
@@ -38,7 +38,7 @@
           "location": "Liverpool, England",
           "established": 2002,
           "coach": "Paul Reed",
-          "logoUrl": "images/team_kaobon.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/team_kaobon.png"
         }
       },
       {
@@ -48,7 +48,7 @@
         "age": 37,
         "champion": true,
         "birthdate": "1987-07-07",
-        "imageUrl": "images/PEREIRA_ALEX.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/PEREIRA_ALEX.png",
         "weightClass": "Light Heavyweight",
         "record": "12-2-0",
         "foughtInOrganisations": ["UFC", "Glory Kickboxing", "K-1"],
@@ -59,7 +59,7 @@
           "location": "Danbury, Connecticut, USA",
           "established": 2019,
           "coach": "Glover Teixeira",
-          "logoUrl": "images/teixeira_mma.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/teixeira_mma.png"
         }
       },
       {
@@ -69,7 +69,7 @@
         "age": 32,
         "champion": false,
         "birthdate": "1992-06-02",
-        "imageUrl": "images/ANKALAEV_MAGOMED.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/ANKALAEV_MAGOMED.png",
         "weightClass": "Light Heavyweight",
         "record": "20-1-1",
         "foughtInOrganisations": ["UFC", "M-1 Global", "ProFC"],
@@ -80,7 +80,7 @@
           "location": "Grozny, Chechnya, Russia",
           "established": 2014,
           "coach": "Sukhrab Magomedov",
-          "logoUrl": "images/fca.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/fca.png"
         }
       },
       {
@@ -90,7 +90,7 @@
         "age": 31,
         "champion": true,
         "birthdate": "1994-01-14",
-        "imageUrl": "images/DUPLESSIS_DRICUS.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/DUPLESSIS_DRICUS.png",
         "weightClass": "Middleweight",
         "record": "22-2-0",
         "foughtInOrganisations": ["UFC", "EFC", "KSW"],
@@ -101,7 +101,7 @@
           "location": "Pretoria, South Africa",
           "established": 2015,
           "coach": "Ruan Potts",
-          "logoUrl": "images/cit_performance.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/cit_performance.png"
         }
       },
       {
@@ -111,7 +111,7 @@
         "age": 29,
         "champion": false,
         "birthdate": "1996-05-01",
-        "imageUrl": "images/IMAVOV_NASSOURDINE.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/IMAVOV_NASSOURDINE.png",
         "weightClass": "Middleweight",
         "record": "12-3-0",
         "foughtInOrganisations": ["UFC", "Cage Warriors","Centurion FC"],
@@ -122,7 +122,7 @@
           "location": "Paris, France",
           "established": 2006,
           "coach": "Erick Nicksick",
-          "logoUrl": "images/mma_factory.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/mma_factory.png"
         }
       },
       {
@@ -132,7 +132,7 @@
         "age": 36,
         "champion": true,
         "birthdate": "1988-07-09",
-        "imageUrl": "images/MUHAMMAD_BELAL.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/MUHAMMAD_BELAL.png",
         "weightClass": "Welterweight",
         "record": "24-3-0",
         "foughtInOrganisations": ["UFC", "Titan FC", "Bellator"],
@@ -143,7 +143,7 @@
           "location": "Milwaukee, Wisconsin, USA",
           "established": 1993,
           "coach": "Duke Roufus",
-          "logoUrl": "images/roufusport.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/roufusport.png"
         }
       },
       {
@@ -153,7 +153,7 @@
         "age": 33,
         "champion": false,
         "birthdate": "1991-08-25",
-        "imageUrl": "images/EDWARDS_LEON.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/EDWARDS_LEON.png",
         "weightClass": "Welterweight",
         "record": "22-4-0",
         "foughtInOrganisations": ["UFC", "BAMMA", "Cage Warriors"],
@@ -164,7 +164,7 @@
           "location": "Birmingham, England",
           "established": 2015,
           "coach": "Dave Lovell",
-          "logoUrl": "images/team_renegade.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/team_renegade.png"
         }
       },
       {
@@ -174,7 +174,7 @@
         "age": 33,
         "champion": true,
         "birthdate": "1991-10-27",
-        "imageUrl": "images/MAKHACHEV_ISLAM.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/MAKHACHEV_ISLAM.png",
         "weightClass": "Lightweight",
         "record": "27-1-0",
         "foughtInOrganisations": ["UFC", "ProFC", "Fight Nights Global"],
@@ -185,7 +185,7 @@
           "location": "San Jose, California, USA",
           "established": 1985,
           "coach": "Javier Mendez",
-          "logoUrl": "images/aka.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/aka.png"
         }
       },
       {
@@ -195,7 +195,7 @@
         "age": 28,
         "champion": false,
         "birthdate": "1996-10-11",
-        "imageUrl": "images/TSARUKYAN_ARMAN.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/TSARUKYAN_ARMAN.png",
         "weightClass": "Lightweight",
         "record": "22-3-0",
         "foughtInOrganisations": ["UFC", "FNG", "ACA"],
@@ -206,7 +206,7 @@
           "location": "Coconut Creek, Florida, USA",
           "established": 2001,
           "coach": "Dan Lambert",
-          "logoUrl": "images/att.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/att.png"
         }
       },
       {
@@ -216,7 +216,7 @@
         "age": 28,
         "champion": true,
         "birthdate": "1997-01-21",
-        "imageUrl": "images/TOPURIA_ILIA.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/TOPURIA_ILIA.png",
         "weightClass": "Featherweight",
         "record": "16-0-0",
         "foughtInOrganisations": ["UFC", "BRAVE CF", "KSW"],
@@ -227,7 +227,7 @@
           "location": "Alicante, Spain",
           "established": 2012,
           "coach": "Jorge Climent",
-          "logoUrl": "images/climent_club.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/climent_club.png"
         }
       },
       {
@@ -237,7 +237,7 @@
         "age": 36,
         "champion": false,
         "birthdate": "1988-09-29",
-        "imageUrl": "images/VOLKANOVSKI_ALEXANDER.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/VOLKANOVSKI_ALEXANDER.png",
         "weightClass": "Featherweight",
         "record": "26-4-0",
         "foughtInOrganisations": ["UFC", "Roshambo MMA", "Australian FC"],
@@ -248,7 +248,7 @@
           "location": "Auckland, New Zealand",
           "established": 2007,
           "coach": "Eugene Bareman",
-          "logoUrl": "images/city_kickboxing.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/city_kickboxing.png"
         }
       },
       {
@@ -258,7 +258,7 @@
         "age": 34,
         "champion": true,
         "birthdate": "1991-01-10",
-        "imageUrl": "images/DVALISHVILI_MERAB.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/DVALISHVILI_MERAB.png",
         "weightClass": "Bantamweight",
         "record": "19-4-0",
         "foughtInOrganisations": ["UFC", "WSOF", "ACA"],
@@ -269,7 +269,7 @@
           "location": "Long Island, New York, USA",
           "established": 2001,
           "coach": "Ray Longo",
-          "logoUrl": "images/serra_longo.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/serra_longo.png"
         }
       },
       {
@@ -279,7 +279,7 @@
         "age": 30,
         "champion": false,
         "birthdate": "1994-10-24",
-        "imageUrl": "images/OMALLEY_SEAN.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/OMALLEY_SEAN.png",
         "weightClass": "Bantamweight",
         "record": "18-2-0",
         "foughtInOrganisations": ["UFC", "ICF", "LFA"],
@@ -290,7 +290,7 @@
           "location": "Glendale, Arizona, USA",
           "established": 2007,
           "coach": "John Crouch",
-          "logoUrl": "images/mma_lab.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/mma_lab.png"
         }
       },
       {
@@ -300,7 +300,7 @@
         "age": 34,
         "champion": true,
         "birthdate": "1990-04-16",
-        "imageUrl": "images/PANTOJA_ALEXANDRE.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/PANTOJA_ALEXANDRE.png",
         "weightClass": "Flyweight",
         "record": "29-5-0",
         "foughtInOrganisations": ["UFC", "Shooto Brazil", "XFC"],
@@ -311,7 +311,7 @@
           "location": "Coconut Creek, Florida, USA",
           "established": 2001,
           "coach": "Dan Lambert",
-          "logoUrl": "images/att.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/att.png"
         }
       },
       {
@@ -321,7 +321,7 @@
         "age": 33,
         "champion": false,
         "birthdate": "1992-08-16",
-        "imageUrl": "images/ROYVAL_BRANDON.png",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/ROYVAL_BRANDON.png",
         "weightClass": "Flyweight",
         "record": "17-7-0",
         "foughtInOrganisations": ["UFC", "LFA", "RFA"],
@@ -332,7 +332,7 @@
           "location": "Englewood, Colorado, USA",
           "established": 2008,
           "coach": "Marc Montoya",
-          "logoUrl": "images/factory_x.png"
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/factory_x.png"
         }
       }
     ]
