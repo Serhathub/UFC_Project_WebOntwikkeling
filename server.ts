@@ -45,7 +45,7 @@ app.get("/fighter/:id", async (req, res) => {
   const fighterId = parseInt(req.params.id);
   const fighters = await fetchFighters();
   const fighter = fighters.find((f) => f.id === fighterId);
-  res.render("fighter", { fighter, pageTitle: "Fighter Details" });
+  res.render("fighter", { fighter, pageTitle: "UFC Fighters" });
 });
 app.get("/teams", async (req, res) => {
     const teams = await fetchTeams();
@@ -55,7 +55,7 @@ app.get("/team/:id", async (req, res) => {
     const fighterId = parseInt(req.params.id);
     const fighters = await fetchFighters();
     const fighter = fighters.find((f) => f.id === fighterId);
-    res.render("fighter", { fighter, pageTitle: "Fighter Details" });
+    res.render("fighter", { fighter, pageTitle: "UFC Teams" });
   });
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
