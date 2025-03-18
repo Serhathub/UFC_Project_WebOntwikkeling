@@ -17,19 +17,19 @@
     },
     {
       "id": 103,
-      "name": "Teixeira MMA & Fitness",
-      "location": "Danbury, Connecticut, USA",
-      "established": 2019,
-      "coach": "Glover Teixeira",
-      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/teixeira_mma.png"
-    },
-    {
-      "id": 104,
       "name": "Fight Club Akhmat",
       "location": "Grozny, Chechnya",
       "established": 2014,
       "coach": "Sukhrab Magomedov",
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/fca.png"
+    },
+    {
+      "id": 104,
+      "name": "Teixeira MMA & Fitness",
+      "location": "Danbury, Connecticut, USA",
+      "established": 2019,
+      "coach": "Glover Teixeira",
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/teixeira_mma.png"
     },
     {
       "id": 105,

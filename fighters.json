@@ -45,39 +45,17 @@
       },
       {
         "id": 3,
-        "name": "Alex Pereira",
-        "nickname": "Poatan",
-        "age": 37,
-        "champion": true,
-        "nation": "Brazil",
-        "birthdate": "1987-07-07",
-        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/PEREIRA_ALEX.png",
-        "weightClass": "Light Heavyweight",
-        "record": "12-2-0",
-        "foughtInOrganisations": ["UFC", "Glory Kickboxing", "K-1"],
-        "description": "A former 2 division kickboxing champion known for his striking ability and knockout power.",
-        "team": {
-          "id": 103,
-          "name": "Teixeira MMA & Fitness",
-          "location": "Danbury, Connecticut, USA",
-          "established": 2019,
-          "coach": "Glover Teixeira",
-          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/teixeira_mma.png"
-        }
-      },
-      {
-        "id": 4,
         "name": "Magomed Ankalaev",
         "nickname": "The Dagestani Mauler",
         "age": 32,
-        "champion": false,
+        "champion": true,
         "birthdate": "1992-06-02",
         "nation": "Russia",
         "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/ANKALAEV_MAGOMED.png",
         "weightClass": "Light Heavyweight",
-        "record": "20-1-1",
+        "record": "21-1-1",
         "foughtInOrganisations": ["UFC", "M-1 Global", "ProFC"],
-        "description": "An up-and-coming light heavyweight with a strong grappling base and striking.",
+        "description": "An up-and-coming light heavyweight with a strong grappling base and striking. First new champion of 2025.",
         "team": {
           "id": 104,
           "name": "Fight Club Akhmat",
@@ -85,6 +63,28 @@
           "established": 2014,
           "coach": "Sukhrab Magomedov",
           "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/fca.png"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Alex Pereira",
+        "nickname": "Poatan",
+        "age": 37,
+        "champion": false,
+        "nation": "Brazil",
+        "birthdate": "1987-07-07",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/PEREIRA_ALEX.png",
+        "weightClass": "Light Heavyweight",
+        "record": "12-3-0",
+        "foughtInOrganisations": ["UFC", "Glory Kickboxing", "K-1"],
+        "description": "A former 2 division kickboxing champion known for his striking ability and knockout power. Also former 2 division UFC champion.",
+        "team": {
+          "id": 103,
+          "name": "Teixeira MMA & Fitness",
+          "location": "Danbury, Connecticut, USA",
+          "established": 2019,
+          "coach": "Glover Teixeira",
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/teixeira_mma.png"
         }
       },
       {
@@ -97,7 +97,7 @@
         "nation": "South Africa",
         "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/DUPLESSIS_DRICUS.png",
         "weightClass": "Middleweight",
-        "record": "22-2-0",
+        "record": "23-2-0",
         "foughtInOrganisations": ["UFC", "EFC", "KSW"],
         "description": "A dynamic middleweight fighter known for his finishing ability and resilience.",
         "team": {
@@ -119,7 +119,7 @@
         "nation": "Russia",
         "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/IMAVOV_NASSOURDINE.png",
         "weightClass": "Middleweight",
-        "record": "12-3-0",
+        "record": "16-4-0",
         "foughtInOrganisations": ["UFC", "Cage Warriors","Centurion FC"],
         "description": "A skilled striker with a technical approach, Nassourdine is rapidly climbing the ranks in the middleweight division.",
         "team": {
