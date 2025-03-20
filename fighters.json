@@ -57,7 +57,7 @@
         "foughtInOrganisations": ["UFC", "M-1 Global", "ProFC"],
         "description": "An up-and-coming light heavyweight with a strong grappling base and striking. First new champion of 2025.",
         "team": {
-          "id": 104,
+          "id": 103,
           "name": "Fight Club Akhmat",
           "location": "Grozny, Chechnya, Russia",
           "established": 2014,
@@ -79,7 +79,7 @@
         "foughtInOrganisations": ["UFC", "Glory Kickboxing", "K-1"],
         "description": "A former 2 division kickboxing champion known for his striking ability and knockout power. Also former 2 division UFC champion.",
         "team": {
-          "id": 103,
+          "id": 104,
           "name": "Teixeira MMA & Fitness",
           "location": "Danbury, Connecticut, USA",
           "established": 2019,
