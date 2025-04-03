@@ -57,14 +57,6 @@
     },
     {
       "id": 108,
-      "name": "Team Renegade BJJ & MMA",
-      "location": "Birmingham, England",
-      "established": 2015,
-      "coach": "Dave Lovell",
-      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/team_renegade.png"
-    },
-    {
-      "id": 109,
       "name": "American Kickboxing Academy",
       "location": "San Jose, California, USA",
       "established": 1985,
@@ -72,7 +64,7 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/aka.png"
     },
     {
-      "id": 110,
+      "id": 109,
       "name": "American Top Team",
       "location": "Coconut Creek, Florida, USA",
       "established": 2001,
@@ -80,7 +72,7 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/att.png"
     },
     {
-      "id": 111,
+      "id": 110,
       "name": "Climent Club",
       "location": "Alicante, Spain",
       "established": 2012,
@@ -88,7 +80,7 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/climent_club.png"
     },
     {
-      "id": 112,
+      "id": 111,
       "name": "City Kickboxing",
       "location": "Auckland, New Zealand",
       "established": 2007,
@@ -96,7 +88,7 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/city_kickboxing.png"
     },
     {
-      "id": 113,
+      "id": 112,
       "name": "Serra-Longo Fight Team",
       "location": "Long Island, New York, USA",
       "established": 2001,
@@ -104,7 +96,7 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/serra_longo.png"
     },
     {
-      "id": 114,
+      "id": 113,
       "name": "MMA Lab",
       "location": "Glendale, Arizona, USA",
       "established": 2007,
@@ -112,7 +104,7 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/mma_lab.png"
     },
     {
-      "id": 115,
+      "id": 114,
       "name": "Factory X",
       "location": "Englewood, Colorado, USA",
       "established": 2008,
