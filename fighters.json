@@ -167,7 +167,7 @@
         "foughtInOrganisations": ["UFC", "CFC", "LFA"],
         "description": "With a strong grappling background and an unbreakable mentality. His durability, combined with powerful strikes and control in the clinch, makes him a well-rounded fighter.",
         "team": {
-          "id": 114,
+          "id": 113,
           "name": "MMA Lab",
           "location": "Glendale, Arizona, USA",
           "established": 2007,
@@ -189,7 +189,7 @@
         "foughtInOrganisations": ["UFC", "ProFC", "Fight Nights Global"],
         "description": "Known for his grappling and submission game, Islam is also very good at striking. He is the current pound-for-pound number 1 fighter in the UFC.",
         "team": {
-          "id": 109,
+          "id": 108,
           "name": "American Kickboxing Academy",
           "location": "San Jose, California, USA",
           "established": 1985,
@@ -211,7 +211,7 @@
         "foughtInOrganisations": ["UFC", "FNG", "ACA"],
         "description": "A talented lightweight prospect with a well-rounded skill set and determination.",
         "team": {
-          "id": 110,
+          "id": 109,
           "name": "American Top Team",
           "location": "Coconut Creek, Florida, USA",
           "established": 2001,
@@ -221,32 +221,10 @@
       },
       {
         "id": 11,
-        "name": "Ilia Topuria",
-        "nickname": "El Matador",
-        "age": 28,
-        "champion": true,
-        "birthdate": "1997-01-21",
-        "nation": "Georgia",
-        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/TOPURIA_ILIA.png",
-        "weightClass": "Featherweight",
-        "record": "16-0-0",
-        "foughtInOrganisations": ["UFC", "BRAVE CF", "KSW"],
-        "description": "An undefeated featherweight known for his explosive striking and grappling prowess.",
-        "team": {
-          "id": 111,
-          "name": "Climent Club",
-          "location": "Alicante, Spain",
-          "established": 2012,
-          "coach": "Jorge Climent",
-          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/climent_club.png"
-        }
-      },
-      {
-        "id": 12,
         "name": "Alexander Volkanovski",
         "nickname": "The Great",
         "age": 36,
-        "champion": false,
+        "champion": true,
         "birthdate": "1988-09-29",
         "nation": "Australia",
         "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/VOLKANOVSKI_ALEXANDER.png",
@@ -255,12 +233,34 @@
         "foughtInOrganisations": ["UFC", "Roshambo MMA", "Australian FC"],
         "description": "A strong all-rounder and former champion with a well-rounded skill set.",
         "team": {
-          "id": 112,
+          "id": 110,
           "name": "City Kickboxing",
           "location": "Auckland, New Zealand",
           "established": 2007,
           "coach": "Eugene Bareman",
           "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/city_kickboxing.png"
+        }
+      },
+      {
+        "id": 12,
+        "name": "Max Holloway",
+        "nickname": "Blessed",
+        "age": 33,
+        "champion": false,
+        "birthdate": "1991-12-04",
+        "nation": "USA",
+        "imageUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/HOLLOWAY_MAX.png",
+        "weightClass": "Featherweight",
+        "record": "26-8-0",
+        "foughtInOrganisations": ["UFC", "X-1 World Events", "Strikeforce"],
+        "description": "An elite striker with relentless pace and volume, known for his durability and championship pedigree.",
+        "team": {
+          "id": 111,
+          "name": "Gracie Technics",
+          "location": "Honolulu, Hawaii, USA",
+          "established": 2003,
+          "coach": "Rylan Lizares",
+          "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/gracie_technics.png"
         }
       },
       {
@@ -277,7 +277,7 @@
         "foughtInOrganisations": ["UFC", "WSOF", "ACA"],
         "description": "A relentless bantamweight known for his cardio and wrestling ability.",
         "team": {
-          "id": 113,
+          "id": 112,
           "name": "Serra-Longo Fight Team",
           "location": "Long Island, New York, USA",
           "established": 2001,
@@ -299,7 +299,7 @@
         "foughtInOrganisations": ["UFC", "ICF", "LFA"],
         "description": "A colorful personality and skilled striker, Sean O'Malley is a fan favorite. He's the previous champion.",
         "team": {
-          "id": 114,
+          "id": 113,
           "name": "MMA Lab",
           "location": "Glendale, Arizona, USA",
           "established": 2007,
@@ -321,7 +321,7 @@
         "foughtInOrganisations": ["UFC", "Shooto Brazil", "XFC"],
         "description": "A well-rounded flyweight known for his grappling and submission skills.",
         "team": {
-          "id": 110,
+          "id": 109,
           "name": "American Top Team",
           "location": "Coconut Creek, Florida, USA",
           "established": 2001,
@@ -343,7 +343,7 @@
         "foughtInOrganisations": ["UFC", "LFA", "RFA"],
         "description": "A fighter known for his exciting style and finishing ability in the flyweight division. He's a former LFA Flyweight Champion.",
         "team": {
-          "id": 115,
+          "id": 114,
           "name": "Factory X",
           "location": "Englewood, Colorado, USA",
           "established": 2008,

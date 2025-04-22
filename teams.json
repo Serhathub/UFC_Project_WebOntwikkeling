@@ -72,20 +72,20 @@
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/att.png"
     },
     {
-      "id": 110,
-      "name": "Climent Club",
-      "location": "Alicante, Spain",
-      "established": 2012,
-      "coach": "Jorge Climent",
-      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/climent_club.png"
-    },
-    {
-      "id": 111,
-      "name": "City Kickboxing",
+     "id": 110,
+     "name": "City Kickboxing",
       "location": "Auckland, New Zealand",
       "established": 2007,
       "coach": "Eugene Bareman",
       "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/city_kickboxing.png"
+    },
+    {
+      "id": 111,
+      "name": "Gracie Technics",
+      "location": "Honolulu, Hawaii, USA",
+      "established": 2003,
+      "coach": "Rylan Lizares",
+      "logoUrl": "https://raw.githubusercontent.com/Serhathub/UFC_Project_WebOntwikkeling/refs/heads/main/images/gracie_technics.png"
     },
     {
       "id": 112,
